@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: plum;
+}
+
+.blue {
+  background-color: rgb(95, 76, 177);
+}
+
+.white {
+  color: white;
+}
+
+.plum {
+  color: plum;
+}
